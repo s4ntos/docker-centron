@@ -14,3 +14,5 @@ RUN easy_install supervisor
 
 # Todo better split file
 ADD supervisord.conf /etc/supervisord.conf
+
+CMD  ["/usr/bin/supervisord","--configuration=/etc/supervisord.conf"]
