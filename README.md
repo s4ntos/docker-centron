@@ -1,3 +1,12 @@
+# docker stats
+## centreon
+[![Docker Pulls](https://img.shields.io/docker/pulls/s4ntos/centreon.svg)](https://hub.docker.com/r/s4ntos/centreon/)
+[![Docker Stars](https://img.shields.io/docker/stars/s4ntos/centreon.svg)](https://hub.docker.com/r/s4ntos/centreon/)
+
+## centreon-poller 
+[![Docker Pulls](https://img.shields.io/docker/pulls/s4ntos/centreon-poller.svg)](https://hub.docker.com/r/s4ntos/centreon-poller/)
+[![Docker Stars](https://img.shields.io/docker/stars/s4ntos/centreon-poller.svg)](https://hub.docker.com/r/s4ntos/centreon-poller/)
+
 # docker-centron
 
 components for a docker instance does not include the mysql database 
